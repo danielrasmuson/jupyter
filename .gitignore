@@ -2,3 +2,6 @@
 .ipynb_checkpoints
 .ipython
 .jupyter
+.cache
+
+.keras
